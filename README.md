@@ -1,17 +1,17 @@
-﻿# Bookshelf-Apps
+# Bookshelf-Apps
 Bookshelf Apps adalah aplikasi web sederhana yang memungkinkan pengguna untuk mengelola daftar buku mereka. Aplikasi ini dikembangkan menggunakan JavaScript, HTML, dan CSS.
 
 # Fitur
-. Menambahkan buku baru ke daftar
-. Memindahkan buku antara rak "Belum Selesai Dibaca" dan "Selesai Dibaca"
-. Mencari buku berdasarkan judul
-. Menghapus buku dari daftar
-. Menyimpan dan memuat data buku dari penyimpanan lokal
+- Menambahkan buku baru ke daftar
+- Memindahkan buku antara rak "Belum Selesai Dibaca" dan "Selesai Dibaca"
+- Mencari buku berdasarkan judul
+- Menghapus buku dari daftar
+- Menyimpan dan memuat data buku dari penyimpanan lokal
 
 # Teknologi yang Digunakan
-**.** HTML
-**.** CSS
-**.** JavaScript
+- HTML
+- CSS
+- JavaScript
 
 # Cara Menjalankan Aplikasi
 1. Unduh atau clone repositori ini.
