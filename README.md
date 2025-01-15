@@ -20,5 +20,3 @@ Bookshelf Apps is a simple web application that allows users to manage their boo
 # Contribution
 If you wish to contribute to this project, please submit a pull request. We welcome suggestions and improvements from the community.
 
-# License
-This project is licensed under the MIT License.
